@@ -1,0 +1,10 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+  Explosion.cpp
+  Game.cpp
+C:\Users\User\Desktop\game\game\Game.cpp(245,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\game\game\Game.cpp(245,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Player.cpp
+  Generating Code...
+  game.vcxproj -> C:\Users\User\Desktop\game\bin\gamed.exe
